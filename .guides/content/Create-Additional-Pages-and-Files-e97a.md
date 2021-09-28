@@ -4,7 +4,7 @@ Instruction through Codio is built around the guides feature. This is a brief de
 
 ### Code Editor File
 ---
-Add a `.java` file to your project. This is the file students will edit. Right-click on the name of your project or book in the directory tree on the left. Select `New File...` and then type its name and file extension. Copy and paste the following template code into the new file.
+Add a `.java` file to this project. This is the file students will edit. Right-click on the name of your project or book in the directory tree on the left. Select `New File...` and then type its name and file extension. Copy and paste the following template code into the new file.
 
 ```
 public class filename {
@@ -46,3 +46,15 @@ Below is an image highlighting what happens after the `TRY IT` button is clicked
 4. The output is displayed as a canvas on the bottom left panel.
 5. Click the tab to go back to the code editor.
 6. Click the `x` to close the canvas and exit the program. Alternatively, you can also press the `Ctrl` and `z` keys (Windows) or the `control` and `z` keys (Mac).
+
+### Add to Course
+---
+You can easily create turtle assignments in Java building off of this Starter Pack. Later, you can add this project to a course by following the steps below:
+
+1. In the course module, click **Add Assignment**.
+2. On the Create Assignment page, click **Project based**.
+3. Import a project by first clicking the **Click here** link under **Starting Point.**
+4. Select **Copy Project** and browse to the project and select it. 
+5. Click Create.
+
+
