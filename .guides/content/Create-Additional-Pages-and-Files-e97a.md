@@ -1,6 +1,15 @@
 ----------
 
-Instruction through Codio is built around the guides feature. This is a brief description on how the demo on the previous page was built. Please see the [documentation](https://docs.codio.com/courses/authoring/) for more information about content authoring with guides.
+Instruction through Codio is built around the guides feature. This is a brief description on how the demo on the previous page was built. Please see the [**documentation**](https://docs.codio.com/authoring.html) for more information about content authoring with guides.
+
+### Build on this Starter Pack
+---
+Please note that there are softwares, files, scripts, etc. preconfigured in this **Hello Turtle in Java** Starter Pack that allow for use of turtle in Java. 
+
+* `turtle.sh` file is a Bash script that allows for efficient operations on multiple files in the command line. 
+* `Turtle.java` is called to enable the Turtle Graphics library.
+
+Follow the directions below to build out this project with your own activities in turtle:
 
 ### Code Editor File
 ---
@@ -21,10 +30,6 @@ Each page in the guide can have its own layout. You can select how many panels y
 When setting up Turtle Graphics, set the code editor file in panel 0, and the server in panel 1. The guide will be in panel 2. 
 
 ![Open Tabs](.guides/img/OpenTabs.png)
-
-### Markdown
----
-Guides are authored with [markdown](https://docs.codio.com/courses/authoring/#markdown-content-editing), but you can use any HTML to author content. 
 
 ### Try It Button
 ---
@@ -47,14 +52,12 @@ Below is an image highlighting what happens after the `TRY IT` button is clicked
 5. Click the tab to go back to the code editor.
 6. Click the `x` to close the canvas and exit the program. Alternatively, you can also press the `Ctrl` and `z` keys (Windows) or the `control` and `z` keys (Mac).
 
-### Add to Course
+### Add this Project to a Course
 ---
-You can easily create turtle assignments in Java building off of this Starter Pack. Later, you can add this project to a course by following the steps below:
+You can add this project as an assignment to an existing course:
 
 1. In the course module, click **Add Assignment**.
 2. On the Create Assignment page, click **Project based**.
-3. Import a project by first clicking the **Click here** link under **Starting Point.**
-4. Select **Copy Project** and browse to the project and select it. 
-5. Click Create.
-
-
+3. To import a project, click the **Click here** link under **Starting Point.** 
+4. Click **Copy Project** and browse to the project and select it.
+5. Click **Create.**
