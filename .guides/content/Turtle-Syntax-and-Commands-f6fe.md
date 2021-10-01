@@ -9,7 +9,7 @@ The first step is to create a Turtle object to move around the screen.
 
 ```java
 
-Turtle tina = new Turtle(); //creates a Turtle object called tina
+	Turtle tina = new Turtle(); //creates a Turtle object called tina
 
 ```
 
@@ -24,11 +24,12 @@ Here are some basic commands to use with `tina` the Turtle object.
 
 ### Turtle Commands
 ---
-Next, let's try this very simple command below. Copy it into the text editor on your left and then click the `TRY IT` button to see the graphical output.
+Next, let's try this very simple command below. **Copy and paste** the following code in the editor on the left. Java style guidelines call for indentation within a block (an open/close brace pair.) Click the `TRY IT` button to see the graphical output.
+
 
 ```java
-Turtle tina = new Turtle(0, 100); //starting position of the turtle
-tina.forward(100);
+	Turtle tina = new Turtle(0, 100); //starting position of the turtle
+	tina.forward(100); //moves tina forward 100 pixels
 ```
 
 {Try it|terminal}(bash .guides/turtle.sh javac TurtleGraphics.java java TurtleGraphics)
@@ -38,11 +39,11 @@ tina.forward(100);
 Copy and paste the code below into the editor on the left and click cthe `TRY IT` button to see the graphical output. What do you think this will create?
 
 ```
-Turtle tina = new Turtle(0, 100); 
-for (int i = 0; i < 4; i++) {
-  tina.forward(100);
-  tina.right(90);
-}
+	Turtle tina = new Turtle(0, 100); 
+	for (int i = 0; i < 4; i++) {
+		tina.forward(100);
+		tina.right(90);
+	}
 ```
 
 {Try it|terminal}(bash .guides/turtle.sh javac TurtleGraphics.java java TurtleGraphics)
