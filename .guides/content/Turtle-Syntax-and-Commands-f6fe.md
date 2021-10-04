@@ -24,7 +24,14 @@ Here are some basic commands to use with `tina` the Turtle object.
 
 ### Turtle Commands
 ---
-Next, let's try this very simple command below. **Copy and paste** the following code in the editor on the left. Java style guidelines call for indentation within a block (an open/close brace pair.) Click the `TRY IT` button to see the graphical output.
+++**Important Note:**++
+Be sure to close out of the terminal and turtle preview window between runs of the `Try it` button. This will update the preview window and allow any changes in your code to be reflected accurately in the turtle's movements.
+
+<iframe src="https://giphy.com/embed/20a2v00ZZFmDFoLqR1" width="650" height="325" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/20a2v00ZZFmDFoLqR1"></a></p>
+
+
+++**Sample Code #1:**++ 
+Let's try this very simple command below. **Copy and paste** the following code in the editor on the left. Java style guidelines call for indentation within a block (an open/close brace pair.) Click the `TRY IT` button to see the graphical output.
 
 
 ```java
@@ -36,6 +43,7 @@ Next, let's try this very simple command below. **Copy and paste** the following
 
 <details><summary> <b>What does the <code>(0,100)</code> inside <code>Turtle()</code> do?</b></summary> This enables you to set the latitude and longitude of <code>tina</code>. In the example, <code>tina</code> starts at 0 pixel latitude and 100 pixels longitude.</details><br>
 
+++**Sample Code #2:**++ 
 Copy and paste the code below into the editor on the left and click cthe `TRY IT` button to see the graphical output. What do you think this will create?
 
 ```
