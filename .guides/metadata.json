@@ -14,7 +14,7 @@
      "action": "open"
     },
     {
-     "path": "#preview: https://{{domain3000}}/",
+     "path": "#preview: https://{{domain3050}}/",
      "panel": 1,
      "action": "open"
     }

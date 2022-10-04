@@ -8,6 +8,7 @@ Please note that there are softwares, files, scripts, etc. preconfigured in this
 
 * `turtle.sh` file is a Bash script that allows for efficient operations on multiple files in the command line. 
 * `Turtle.java` is called to enable the Turtle Graphics library.
+* `turtle.cfg` contains the coordinates for the starting location of the turtle window in the pane.
 
 Follow the directions below to build out this project with your own activities in turtle:
 
